@@ -1,0 +1,68 @@
+import os 2
+
+from math Import sin, cos
+
+def main(): a-0
+
+for clearing console (winds and unix systems)
+
+clear "cls
+
+If os.name--"post": clear - "clear"
+
+os.system(clear)
+
+while True: z-[0 for in range(7040)]
+
+screen- [ for in range(1760)]
+
+J-0 while j<6.28:
+
+1-0
+
+while 146,28:
+
+1++0.02
+
+sina-sin(a) COSA-cos(a) cost-cos (b) sing-sin(b)
+sini-sin(1) cost-cos(4)
+
+cost-cos(1)
+
+sinj-sin(3)
+
+mess-1/(sini cos]2*sin+sinj*cosA+5) t-sini cos)2*cos-sinj sink
+
+All is the left screen shift
+
+x-int (40+30 mess" (cosi cos)2*cose-t*sin)) #17 Is the down screen shift
+
+yint (12+15 mess (cosi cas12'sin et cost))
+#all are casted to int, le floored
+
+
+o - int(x+y) Int(((sinj sink-sini cos) cosA)*cos-sini cos)"
+
+if Dcyc22 and @cece and z[0] < mess:
+
+screen[0]--;-1*#$@"[N if No© else 0]
+
+os.system(clear)
+
+for Index, char in enumerate(screen):
+
+if index % 30-0: print()
+
+else:
+
+print(char, end-")
+
+21-0.04
+
+b++0.02
+
+#Increments
+
+if __name__ == "__main__":
+
+main()
